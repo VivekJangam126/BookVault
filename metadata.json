@@ -1,0 +1,5 @@
+{
+  "name": "BookDiscover Dashboard",
+  "description": "A professional React web application to search books and explore author information using the Google Books API.",
+  "requestFramePermissions": []
+}
