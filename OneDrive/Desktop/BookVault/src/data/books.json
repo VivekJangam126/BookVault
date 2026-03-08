@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "dummy-1",
+    "volumeInfo": {
+      "title": "Programming Book 1 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Programming Book 1. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book1/300/400"
+      },
+      "pageCount": 363,
+      "publishedDate": "2023-03-15"
+    }
+  },
+  {
+    "id": "dummy-2",
+    "volumeInfo": {
+      "title": "Technology Book 2 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Technology Book 2. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book2/300/400"
+      },
+      "pageCount": 281,
+      "publishedDate": "2021-02-15"
+    }
+  },
+  {
+    "id": "dummy-3",
+    "volumeInfo": {
+      "title": "Fiction Book 3 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.4",
+      "description": "This is a detailed description for Fiction Book 3. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book3/300/400"
+      },
+      "pageCount": 152,
+      "publishedDate": "2020-01-15"
+    }
+  },
+  {
+    "id": "dummy-4",
+    "volumeInfo": {
+      "title": "Science Book 4 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.9",
+      "description": "This is a detailed description for Science Book 4. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book4/300/400"
+      },
+      "pageCount": 133,
+      "publishedDate": "2023-09-15"
+    }
+  },
+  {
+    "id": "dummy-5",
+    "volumeInfo": {
+      "title": "Programming Book 5 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Programming Book 5. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book5/300/400"
+      },
+      "pageCount": 366,
+      "publishedDate": "2024-02-15"
+    }
+  },
+  {
+    "id": "dummy-6",
+    "volumeInfo": {
+      "title": "Technology Book 6 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Technology Book 6. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book6/300/400"
+      },
+      "pageCount": 266,
+      "publishedDate": "2020-02-15"
+    }
+  },
+  {
+    "id": "dummy-7",
+    "volumeInfo": {
+      "title": "Fiction Book 7 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.6",
+      "description": "This is a detailed description for Fiction Book 7. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book7/300/400"
+      },
+      "pageCount": 182,
+      "publishedDate": "2020-07-15"
+    }
+  },
+  {
+    "id": "dummy-8",
+    "volumeInfo": {
+      "title": "Science Book 8 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Science Book 8. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book8/300/400"
+      },
+      "pageCount": 305,
+      "publishedDate": "2023-07-15"
+    }
+  },
+  {
+    "id": "dummy-9",
+    "volumeInfo": {
+      "title": "Programming Book 9 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.9",
+      "description": "This is a detailed description for Programming Book 9. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book9/300/400"
+      },
+      "pageCount": 199,
+      "publishedDate": "2023-08-15"
+    }
+  },
+  {
+    "id": "dummy-10",
+    "volumeInfo": {
+      "title": "Technology Book 10 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.2",
+      "description": "This is a detailed description for Technology Book 10. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book10/300/400"
+      },
+      "pageCount": 287,
+      "publishedDate": "2020-05-15"
+    }
+  },
+  {
+    "id": "dummy-11",
+    "volumeInfo": {
+      "title": "Fiction Book 11 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Fiction Book 11. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book11/300/400"
+      },
+      "pageCount": 282,
+      "publishedDate": "2021-09-15"
+    }
+  },
+  {
+    "id": "dummy-12",
+    "volumeInfo": {
+      "title": "Science Book 12 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Science Book 12. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book12/300/400"
+      },
+      "pageCount": 139,
+      "publishedDate": "2020-06-15"
+    }
+  },
+  {
+    "id": "dummy-13",
+    "volumeInfo": {
+      "title": "Programming Book 13 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.9",
+      "description": "This is a detailed description for Programming Book 13. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book13/300/400"
+      },
+      "pageCount": 303,
+      "publishedDate": "2022-07-15"
+    }
+  },
+  {
+    "id": "dummy-14",
+    "volumeInfo": {
+      "title": "Technology Book 14 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Technology Book 14. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book14/300/400"
+      },
+      "pageCount": 148,
+      "publishedDate": "2022-07-15"
+    }
+  },
+  {
+    "id": "dummy-15",
+    "volumeInfo": {
+      "title": "Fiction Book 15 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Fiction Book 15. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book15/300/400"
+      },
+      "pageCount": 157,
+      "publishedDate": "2021-07-15"
+    }
+  },
+  {
+    "id": "dummy-16",
+    "volumeInfo": {
+      "title": "Science Book 16 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Science Book 16. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book16/300/400"
+      },
+      "pageCount": 161,
+      "publishedDate": "2022-07-15"
+    }
+  },
+  {
+    "id": "dummy-17",
+    "volumeInfo": {
+      "title": "Programming Book 17 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Programming Book 17. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book17/300/400"
+      },
+      "pageCount": 215,
+      "publishedDate": "2021-06-15"
+    }
+  },
+  {
+    "id": "dummy-18",
+    "volumeInfo": {
+      "title": "Technology Book 18 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.6",
+      "description": "This is a detailed description for Technology Book 18. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book18/300/400"
+      },
+      "pageCount": 387,
+      "publishedDate": "2023-05-15"
+    }
+  },
+  {
+    "id": "dummy-19",
+    "volumeInfo": {
+      "title": "Fiction Book 19 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.3",
+      "description": "This is a detailed description for Fiction Book 19. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book19/300/400"
+      },
+      "pageCount": 126,
+      "publishedDate": "2023-03-15"
+    }
+  },
+  {
+    "id": "dummy-20",
+    "volumeInfo": {
+      "title": "Science Book 20 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Science Book 20. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book20/300/400"
+      },
+      "pageCount": 202,
+      "publishedDate": "2023-07-15"
+    }
+  },
+  {
+    "id": "dummy-21",
+    "volumeInfo": {
+      "title": "Programming Book 21 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Programming Book 21. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book21/300/400"
+      },
+      "pageCount": 207,
+      "publishedDate": "2021-03-15"
+    }
+  },
+  {
+    "id": "dummy-22",
+    "volumeInfo": {
+      "title": "Technology Book 22 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.3",
+      "description": "This is a detailed description for Technology Book 22. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book22/300/400"
+      },
+      "pageCount": 355,
+      "publishedDate": "2020-03-15"
+    }
+  },
+  {
+    "id": "dummy-23",
+    "volumeInfo": {
+      "title": "Fiction Book 23 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.3",
+      "description": "This is a detailed description for Fiction Book 23. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book23/300/400"
+      },
+      "pageCount": 366,
+      "publishedDate": "2022-04-15"
+    }
+  },
+  {
+    "id": "dummy-24",
+    "volumeInfo": {
+      "title": "Science Book 24 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Science Book 24. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book24/300/400"
+      },
+      "pageCount": 211,
+      "publishedDate": "2021-09-15"
+    }
+  },
+  {
+    "id": "dummy-25",
+    "volumeInfo": {
+      "title": "Programming Book 25 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Programming Book 25. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book25/300/400"
+      },
+      "pageCount": 109,
+      "publishedDate": "2024-05-15"
+    }
+  },
+  {
+    "id": "dummy-26",
+    "volumeInfo": {
+      "title": "Technology Book 26 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.9",
+      "description": "This is a detailed description for Technology Book 26. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book26/300/400"
+      },
+      "pageCount": 364,
+      "publishedDate": "2023-01-15"
+    }
+  },
+  {
+    "id": "dummy-27",
+    "volumeInfo": {
+      "title": "Fiction Book 27 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Fiction Book 27. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book27/300/400"
+      },
+      "pageCount": 387,
+      "publishedDate": "2024-07-15"
+    }
+  },
+  {
+    "id": "dummy-28",
+    "volumeInfo": {
+      "title": "Science Book 28 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Science Book 28. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book28/300/400"
+      },
+      "pageCount": 269,
+      "publishedDate": "2023-09-15"
+    }
+  },
+  {
+    "id": "dummy-29",
+    "volumeInfo": {
+      "title": "Programming Book 29 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Programming Book 29. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book29/300/400"
+      },
+      "pageCount": 269,
+      "publishedDate": "2021-01-15"
+    }
+  },
+  {
+    "id": "dummy-30",
+    "volumeInfo": {
+      "title": "Technology Book 30 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.0",
+      "description": "This is a detailed description for Technology Book 30. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book30/300/400"
+      },
+      "pageCount": 267,
+      "publishedDate": "2023-05-15"
+    }
+  },
+  {
+    "id": "dummy-31",
+    "volumeInfo": {
+      "title": "Fiction Book 31 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.6",
+      "description": "This is a detailed description for Fiction Book 31. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book31/300/400"
+      },
+      "pageCount": 391,
+      "publishedDate": "2022-03-15"
+    }
+  },
+  {
+    "id": "dummy-32",
+    "volumeInfo": {
+      "title": "Science Book 32 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.8",
+      "description": "This is a detailed description for Science Book 32. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book32/300/400"
+      },
+      "pageCount": 243,
+      "publishedDate": "2024-08-15"
+    }
+  },
+  {
+    "id": "dummy-33",
+    "volumeInfo": {
+      "title": "Programming Book 33 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Programming Book 33. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book33/300/400"
+      },
+      "pageCount": 309,
+      "publishedDate": "2022-08-15"
+    }
+  },
+  {
+    "id": "dummy-34",
+    "volumeInfo": {
+      "title": "Technology Book 34 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.7",
+      "description": "This is a detailed description for Technology Book 34. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book34/300/400"
+      },
+      "pageCount": 190,
+      "publishedDate": "2020-06-15"
+    }
+  },
+  {
+    "id": "dummy-35",
+    "volumeInfo": {
+      "title": "Fiction Book 35 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Fiction Book 35. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book35/300/400"
+      },
+      "pageCount": 291,
+      "publishedDate": "2020-09-15"
+    }
+  },
+  {
+    "id": "dummy-36",
+    "volumeInfo": {
+      "title": "Science Book 36 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Science Book 36. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book36/300/400"
+      },
+      "pageCount": 345,
+      "publishedDate": "2020-08-15"
+    }
+  },
+  {
+    "id": "dummy-37",
+    "volumeInfo": {
+      "title": "Programming Book 37 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Programming Book 37. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book37/300/400"
+      },
+      "pageCount": 292,
+      "publishedDate": "2023-09-15"
+    }
+  },
+  {
+    "id": "dummy-38",
+    "volumeInfo": {
+      "title": "Technology Book 38 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Technology Book 38. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book38/300/400"
+      },
+      "pageCount": 239,
+      "publishedDate": "2023-03-15"
+    }
+  },
+  {
+    "id": "dummy-39",
+    "volumeInfo": {
+      "title": "Fiction Book 39 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Fiction Book 39. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book39/300/400"
+      },
+      "pageCount": 282,
+      "publishedDate": "2023-07-15"
+    }
+  },
+  {
+    "id": "dummy-40",
+    "volumeInfo": {
+      "title": "Science Book 40 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.2",
+      "description": "This is a detailed description for Science Book 40. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book40/300/400"
+      },
+      "pageCount": 201,
+      "publishedDate": "2023-01-15"
+    }
+  },
+  {
+    "id": "dummy-41",
+    "volumeInfo": {
+      "title": "Programming Book 41 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "5.0",
+      "description": "This is a detailed description for Programming Book 41. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book41/300/400"
+      },
+      "pageCount": 288,
+      "publishedDate": "2023-04-15"
+    }
+  },
+  {
+    "id": "dummy-42",
+    "volumeInfo": {
+      "title": "Technology Book 42 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.0",
+      "description": "This is a detailed description for Technology Book 42. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book42/300/400"
+      },
+      "pageCount": 209,
+      "publishedDate": "2021-07-15"
+    }
+  },
+  {
+    "id": "dummy-43",
+    "volumeInfo": {
+      "title": "Fiction Book 43 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Fiction Book 43. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book43/300/400"
+      },
+      "pageCount": 298,
+      "publishedDate": "2023-06-15"
+    }
+  },
+  {
+    "id": "dummy-44",
+    "volumeInfo": {
+      "title": "Science Book 44 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.9",
+      "description": "This is a detailed description for Science Book 44. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book44/300/400"
+      },
+      "pageCount": 294,
+      "publishedDate": "2023-08-15"
+    }
+  },
+  {
+    "id": "dummy-45",
+    "volumeInfo": {
+      "title": "Programming Book 45 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Programming Book 45. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book45/300/400"
+      },
+      "pageCount": 301,
+      "publishedDate": "2020-06-15"
+    }
+  },
+  {
+    "id": "dummy-46",
+    "volumeInfo": {
+      "title": "Technology Book 46 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Technology Book 46. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book46/300/400"
+      },
+      "pageCount": 110,
+      "publishedDate": "2020-01-15"
+    }
+  },
+  {
+    "id": "dummy-47",
+    "volumeInfo": {
+      "title": "Fiction Book 47 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Fiction Book 47. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book47/300/400"
+      },
+      "pageCount": 273,
+      "publishedDate": "2024-01-15"
+    }
+  },
+  {
+    "id": "dummy-48",
+    "volumeInfo": {
+      "title": "Science Book 48 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.0",
+      "description": "This is a detailed description for Science Book 48. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book48/300/400"
+      },
+      "pageCount": 380,
+      "publishedDate": "2023-09-15"
+    }
+  },
+  {
+    "id": "dummy-49",
+    "volumeInfo": {
+      "title": "Programming Book 49 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Programming Book 49. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book49/300/400"
+      },
+      "pageCount": 201,
+      "publishedDate": "2024-01-15"
+    }
+  },
+  {
+    "id": "dummy-50",
+    "volumeInfo": {
+      "title": "Technology Book 50 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.8",
+      "description": "This is a detailed description for Technology Book 50. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book50/300/400"
+      },
+      "pageCount": 316,
+      "publishedDate": "2020-07-15"
+    }
+  },
+  {
+    "id": "dummy-51",
+    "volumeInfo": {
+      "title": "Fiction Book 51 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.5",
+      "description": "This is a detailed description for Fiction Book 51. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book51/300/400"
+      },
+      "pageCount": 284,
+      "publishedDate": "2021-04-15"
+    }
+  },
+  {
+    "id": "dummy-52",
+    "volumeInfo": {
+      "title": "Science Book 52 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.4",
+      "description": "This is a detailed description for Science Book 52. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book52/300/400"
+      },
+      "pageCount": 230,
+      "publishedDate": "2024-03-15"
+    }
+  },
+  {
+    "id": "dummy-53",
+    "volumeInfo": {
+      "title": "Programming Book 53 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.7",
+      "description": "This is a detailed description for Programming Book 53. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book53/300/400"
+      },
+      "pageCount": 346,
+      "publishedDate": "2023-08-15"
+    }
+  },
+  {
+    "id": "dummy-54",
+    "volumeInfo": {
+      "title": "Technology Book 54 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Technology Book 54. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book54/300/400"
+      },
+      "pageCount": 204,
+      "publishedDate": "2024-09-15"
+    }
+  },
+  {
+    "id": "dummy-55",
+    "volumeInfo": {
+      "title": "Fiction Book 55 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Fiction Book 55. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book55/300/400"
+      },
+      "pageCount": 225,
+      "publishedDate": "2020-07-15"
+    }
+  },
+  {
+    "id": "dummy-56",
+    "volumeInfo": {
+      "title": "Science Book 56 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Science Book 56. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book56/300/400"
+      },
+      "pageCount": 136,
+      "publishedDate": "2024-04-15"
+    }
+  },
+  {
+    "id": "dummy-57",
+    "volumeInfo": {
+      "title": "Programming Book 57 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Programming Book 57. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book57/300/400"
+      },
+      "pageCount": 332,
+      "publishedDate": "2023-02-15"
+    }
+  },
+  {
+    "id": "dummy-58",
+    "volumeInfo": {
+      "title": "Technology Book 58 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Technology Book 58. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book58/300/400"
+      },
+      "pageCount": 222,
+      "publishedDate": "2020-09-15"
+    }
+  },
+  {
+    "id": "dummy-59",
+    "volumeInfo": {
+      "title": "Fiction Book 59 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Fiction Book 59. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book59/300/400"
+      },
+      "pageCount": 294,
+      "publishedDate": "2022-06-15"
+    }
+  },
+  {
+    "id": "dummy-60",
+    "volumeInfo": {
+      "title": "Science Book 60 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.2",
+      "description": "This is a detailed description for Science Book 60. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book60/300/400"
+      },
+      "pageCount": 105,
+      "publishedDate": "2021-02-15"
+    }
+  },
+  {
+    "id": "dummy-61",
+    "volumeInfo": {
+      "title": "Programming Book 61 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Programming Book 61. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book61/300/400"
+      },
+      "pageCount": 373,
+      "publishedDate": "2020-09-15"
+    }
+  },
+  {
+    "id": "dummy-62",
+    "volumeInfo": {
+      "title": "Technology Book 62 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.6",
+      "description": "This is a detailed description for Technology Book 62. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book62/300/400"
+      },
+      "pageCount": 173,
+      "publishedDate": "2020-03-15"
+    }
+  },
+  {
+    "id": "dummy-63",
+    "volumeInfo": {
+      "title": "Fiction Book 63 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Fiction Book 63. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book63/300/400"
+      },
+      "pageCount": 156,
+      "publishedDate": "2024-05-15"
+    }
+  },
+  {
+    "id": "dummy-64",
+    "volumeInfo": {
+      "title": "Science Book 64 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.8",
+      "description": "This is a detailed description for Science Book 64. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book64/300/400"
+      },
+      "pageCount": 382,
+      "publishedDate": "2022-02-15"
+    }
+  },
+  {
+    "id": "dummy-65",
+    "volumeInfo": {
+      "title": "Programming Book 65 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.2",
+      "description": "This is a detailed description for Programming Book 65. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book65/300/400"
+      },
+      "pageCount": 247,
+      "publishedDate": "2021-07-15"
+    }
+  },
+  {
+    "id": "dummy-66",
+    "volumeInfo": {
+      "title": "Technology Book 66 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.8",
+      "description": "This is a detailed description for Technology Book 66. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book66/300/400"
+      },
+      "pageCount": 253,
+      "publishedDate": "2024-04-15"
+    }
+  },
+  {
+    "id": "dummy-67",
+    "volumeInfo": {
+      "title": "Fiction Book 67 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.8",
+      "description": "This is a detailed description for Fiction Book 67. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book67/300/400"
+      },
+      "pageCount": 374,
+      "publishedDate": "2020-09-15"
+    }
+  },
+  {
+    "id": "dummy-68",
+    "volumeInfo": {
+      "title": "Science Book 68 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.0",
+      "description": "This is a detailed description for Science Book 68. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book68/300/400"
+      },
+      "pageCount": 327,
+      "publishedDate": "2020-07-15"
+    }
+  },
+  {
+    "id": "dummy-69",
+    "volumeInfo": {
+      "title": "Programming Book 69 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Programming Book 69. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book69/300/400"
+      },
+      "pageCount": 321,
+      "publishedDate": "2020-04-15"
+    }
+  },
+  {
+    "id": "dummy-70",
+    "volumeInfo": {
+      "title": "Technology Book 70 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Technology Book 70. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book70/300/400"
+      },
+      "pageCount": 384,
+      "publishedDate": "2024-08-15"
+    }
+  },
+  {
+    "id": "dummy-71",
+    "volumeInfo": {
+      "title": "Fiction Book 71 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Fiction Book 71. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book71/300/400"
+      },
+      "pageCount": 320,
+      "publishedDate": "2020-01-15"
+    }
+  },
+  {
+    "id": "dummy-72",
+    "volumeInfo": {
+      "title": "Science Book 72 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.9",
+      "description": "This is a detailed description for Science Book 72. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book72/300/400"
+      },
+      "pageCount": 297,
+      "publishedDate": "2020-03-15"
+    }
+  },
+  {
+    "id": "dummy-73",
+    "volumeInfo": {
+      "title": "Programming Book 73 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Programming Book 73. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book73/300/400"
+      },
+      "pageCount": 337,
+      "publishedDate": "2021-01-15"
+    }
+  },
+  {
+    "id": "dummy-74",
+    "volumeInfo": {
+      "title": "Technology Book 74 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Technology Book 74. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book74/300/400"
+      },
+      "pageCount": 180,
+      "publishedDate": "2023-01-15"
+    }
+  },
+  {
+    "id": "dummy-75",
+    "volumeInfo": {
+      "title": "Fiction Book 75 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Fiction Book 75. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book75/300/400"
+      },
+      "pageCount": 342,
+      "publishedDate": "2023-02-15"
+    }
+  },
+  {
+    "id": "dummy-76",
+    "volumeInfo": {
+      "title": "Science Book 76 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Science Book 76. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book76/300/400"
+      },
+      "pageCount": 231,
+      "publishedDate": "2020-02-15"
+    }
+  },
+  {
+    "id": "dummy-77",
+    "volumeInfo": {
+      "title": "Programming Book 77 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.7",
+      "description": "This is a detailed description for Programming Book 77. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book77/300/400"
+      },
+      "pageCount": 168,
+      "publishedDate": "2024-03-15"
+    }
+  },
+  {
+    "id": "dummy-78",
+    "volumeInfo": {
+      "title": "Technology Book 78 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Technology Book 78. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book78/300/400"
+      },
+      "pageCount": 261,
+      "publishedDate": "2023-08-15"
+    }
+  },
+  {
+    "id": "dummy-79",
+    "volumeInfo": {
+      "title": "Fiction Book 79 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Fiction Book 79. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book79/300/400"
+      },
+      "pageCount": 320,
+      "publishedDate": "2021-05-15"
+    }
+  },
+  {
+    "id": "dummy-80",
+    "volumeInfo": {
+      "title": "Science Book 80 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Science Book 80. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book80/300/400"
+      },
+      "pageCount": 390,
+      "publishedDate": "2024-02-15"
+    }
+  },
+  {
+    "id": "dummy-81",
+    "volumeInfo": {
+      "title": "Programming Book 81 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Programming Book 81. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book81/300/400"
+      },
+      "pageCount": 365,
+      "publishedDate": "2023-04-15"
+    }
+  },
+  {
+    "id": "dummy-82",
+    "volumeInfo": {
+      "title": "Technology Book 82 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Technology Book 82. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book82/300/400"
+      },
+      "pageCount": 373,
+      "publishedDate": "2020-02-15"
+    }
+  },
+  {
+    "id": "dummy-83",
+    "volumeInfo": {
+      "title": "Fiction Book 83 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.3",
+      "description": "This is a detailed description for Fiction Book 83. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book83/300/400"
+      },
+      "pageCount": 396,
+      "publishedDate": "2022-02-15"
+    }
+  },
+  {
+    "id": "dummy-84",
+    "volumeInfo": {
+      "title": "Science Book 84 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.2",
+      "description": "This is a detailed description for Science Book 84. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book84/300/400"
+      },
+      "pageCount": 272,
+      "publishedDate": "2022-09-15"
+    }
+  },
+  {
+    "id": "dummy-85",
+    "volumeInfo": {
+      "title": "Programming Book 85 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.5",
+      "description": "This is a detailed description for Programming Book 85. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book85/300/400"
+      },
+      "pageCount": 109,
+      "publishedDate": "2021-04-15"
+    }
+  },
+  {
+    "id": "dummy-86",
+    "volumeInfo": {
+      "title": "Technology Book 86 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.2",
+      "description": "This is a detailed description for Technology Book 86. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book86/300/400"
+      },
+      "pageCount": 196,
+      "publishedDate": "2023-05-15"
+    }
+  },
+  {
+    "id": "dummy-87",
+    "volumeInfo": {
+      "title": "Fiction Book 87 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Fiction Book 87. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book87/300/400"
+      },
+      "pageCount": 399,
+      "publishedDate": "2024-07-15"
+    }
+  },
+  {
+    "id": "dummy-88",
+    "volumeInfo": {
+      "title": "Science Book 88 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.7",
+      "description": "This is a detailed description for Science Book 88. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book88/300/400"
+      },
+      "pageCount": 222,
+      "publishedDate": "2021-06-15"
+    }
+  },
+  {
+    "id": "dummy-89",
+    "volumeInfo": {
+      "title": "Programming Book 89 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.1",
+      "description": "This is a detailed description for Programming Book 89. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book89/300/400"
+      },
+      "pageCount": 174,
+      "publishedDate": "2022-07-15"
+    }
+  },
+  {
+    "id": "dummy-90",
+    "volumeInfo": {
+      "title": "Technology Book 90 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Technology Book 90. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book90/300/400"
+      },
+      "pageCount": 275,
+      "publishedDate": "2024-07-15"
+    }
+  },
+  {
+    "id": "dummy-91",
+    "volumeInfo": {
+      "title": "Fiction Book 91 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.5",
+      "description": "This is a detailed description for Fiction Book 91. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book91/300/400"
+      },
+      "pageCount": 252,
+      "publishedDate": "2022-06-15"
+    }
+  },
+  {
+    "id": "dummy-92",
+    "volumeInfo": {
+      "title": "Science Book 92 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "3.4",
+      "description": "This is a detailed description for Science Book 92. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book92/300/400"
+      },
+      "pageCount": 313,
+      "publishedDate": "2020-03-15"
+    }
+  },
+  {
+    "id": "dummy-93",
+    "volumeInfo": {
+      "title": "Programming Book 93 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "4.1",
+      "description": "This is a detailed description for Programming Book 93. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book93/300/400"
+      },
+      "pageCount": 391,
+      "publishedDate": "2023-03-15"
+    }
+  },
+  {
+    "id": "dummy-94",
+    "volumeInfo": {
+      "title": "Technology Book 94 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "4.4",
+      "description": "This is a detailed description for Technology Book 94. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book94/300/400"
+      },
+      "pageCount": 155,
+      "publishedDate": "2020-03-15"
+    }
+  },
+  {
+    "id": "dummy-95",
+    "volumeInfo": {
+      "title": "Fiction Book 95 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "3.6",
+      "description": "This is a detailed description for Fiction Book 95. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book95/300/400"
+      },
+      "pageCount": 375,
+      "publishedDate": "2024-02-15"
+    }
+  },
+  {
+    "id": "dummy-96",
+    "volumeInfo": {
+      "title": "Science Book 96 - The Ultimate Guide",
+      "authors": [
+        "John Doe"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Science Book 96. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book96/300/400"
+      },
+      "pageCount": 178,
+      "publishedDate": "2024-08-15"
+    }
+  },
+  {
+    "id": "dummy-97",
+    "volumeInfo": {
+      "title": "Programming Book 97 - The Ultimate Guide",
+      "authors": [
+        "Jane Smith"
+      ],
+      "categories": [
+        "Programming"
+      ],
+      "averageRating": "3.9",
+      "description": "This is a detailed description for Programming Book 97. It covers various topics related to programming and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book97/300/400"
+      },
+      "pageCount": 368,
+      "publishedDate": "2024-08-15"
+    }
+  },
+  {
+    "id": "dummy-98",
+    "volumeInfo": {
+      "title": "Technology Book 98 - The Ultimate Guide",
+      "authors": [
+        "Alice Johnson"
+      ],
+      "categories": [
+        "Technology"
+      ],
+      "averageRating": "3.3",
+      "description": "This is a detailed description for Technology Book 98. It covers various topics related to technology and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book98/300/400"
+      },
+      "pageCount": 160,
+      "publishedDate": "2023-03-15"
+    }
+  },
+  {
+    "id": "dummy-99",
+    "volumeInfo": {
+      "title": "Fiction Book 99 - The Ultimate Guide",
+      "authors": [
+        "Bob Williams"
+      ],
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": "4.6",
+      "description": "This is a detailed description for Fiction Book 99. It covers various topics related to fiction and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book99/300/400"
+      },
+      "pageCount": 316,
+      "publishedDate": "2022-01-15"
+    }
+  },
+  {
+    "id": "dummy-100",
+    "volumeInfo": {
+      "title": "Science Book 100 - The Ultimate Guide",
+      "authors": [
+        "Charlie Brown"
+      ],
+      "categories": [
+        "Science"
+      ],
+      "averageRating": "4.9",
+      "description": "This is a detailed description for Science Book 100. It covers various topics related to science and provides great insights for readers of all levels.",
+      "imageLinks": {
+        "thumbnail": "https://picsum.photos/seed/book100/300/400"
+      },
+      "pageCount": 371,
+      "publishedDate": "2022-05-15"
+    }
+  }
+]
